@@ -8,6 +8,7 @@ Some source of meme <br>
 ##Or
 ### click install.cmd (For Windows)<br>
 ### macandlinux.sh (For mac and linux) <br>
+Or follow link : https://replit.com/@RealNattawattHo/Helicopter-Helicopter <br>
 
 ## Thank You!<br>
 Make By Oreo Young Man
